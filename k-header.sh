@@ -73,7 +73,7 @@ sleep 4.0
 bash ins.sh 
 sleep 5.0
 clear
-sleep 5.0
+sleep 5.0                      
 bash thanks.sh 
 sleep 2.0 
 clear
