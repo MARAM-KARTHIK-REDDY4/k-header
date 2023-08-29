@@ -64,7 +64,7 @@ cd k-header
 
 ls
 
-cp scifi.mp3 /sdcard
+cp scifi.mp3
 
 clear
 bash packages.sh
