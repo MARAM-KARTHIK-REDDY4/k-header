@@ -388,4 +388,4 @@ echo ""
 echo ""
 echo ""
 sleep 2.0
-mpv /sdcard/scifi.mp3
+mpv /blob/main/scifi.mp3
