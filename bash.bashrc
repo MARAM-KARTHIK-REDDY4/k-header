@@ -1,8 +1,7 @@
 command_not_found_handle() {
 	/data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
 }
-#PS1='\033[1;91mMR.KK[\033[1;93m\W\033[1;91m]:# \033[1;92m'
-PS1='\[\e[24m\]┌─[\[\e[28m\]\T\[\e[o24m\]]─────\e[1;88m[root]\e[0;24m───[\#]\n|\n\e[0;24m└─[\[\e[24m\]\e[0;28m\W\[\e[24m\]]────►\e[1;88m'
+PS1='\033[1;91mMR.KK[\033[1;93m\W\033[1;91m]:# \033[1;92m'
 clear
 echo " "
 echo  ' 
